@@ -10,3 +10,5 @@ The first issue I ran into was when I first installed Cursor, I could not see th
 Also, I had to look for tutorial videos on YouTube and read up for - installing Cursor extensions, and where to login on Claude Code and Codex add-ons. Also, on how to create a GitHub repository, what license to add, installing GitHub, how to open the repository in Cursor and finally on commiting and pushing code to GitHub.
 
 Another issue I faced was when entering the 'git clone' command on cmd, I couldn't execute it as I had not installed GitHub so I figured that out and upon installation I could solve this issue.
+
+This is how I resolved the issues and successfully completed all the steps and tasks mentioned. 
