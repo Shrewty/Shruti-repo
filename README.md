@@ -11,4 +11,6 @@ Also, I had to look for tutorial videos on YouTube and read up for - installing 
 
 Another issue I faced was when entering the 'git clone' command on cmd, I couldn't execute it as I had not installed GitHub so I figured that out and upon installation I could solve this issue.
 
+Other than that, there were minor bugs and fixes that I could resolve with a little bit of patient research. 
+
 This is how I resolved the issues and successfully completed all the steps and tasks mentioned. 
